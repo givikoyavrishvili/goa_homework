@@ -1,0 +1,1 @@
+print("in my opinion goa academy is best on the world")
