@@ -1,1 +1,0 @@
-print=("irina, levani, luka")

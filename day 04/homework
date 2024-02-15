@@ -1,0 +1,4 @@
+name=("giviko")
+surname=("yavrishvili")
+age=13 + 10
+print(name,surname,age) 
