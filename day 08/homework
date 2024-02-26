@@ -1,0 +1,13 @@
+# string
+x = "hello"
+y = "15"
+# integer/int
+z = 15
+c = 20
+#float
+g = 5.2
+h = 1.8
+#boolean
+t = True
+f = False
+
