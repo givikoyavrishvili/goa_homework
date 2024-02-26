@@ -20,3 +20,5 @@ num19=int(input("enter the nineteenth number"))
 num20=int(input("enter the twentiethnumber"))
 num21=int(input("enter the twentioneth number"))
 num22=int(input("enter the twentitwoth number"))
+arithmetics= (num1+num2+num3+num4+num5+num6+num7+num8+num9+num10+num11+num12+num13+num14+num15+num16+num17+num18+num19+num20+num21+num22) / 22
+print(arithmetics)
